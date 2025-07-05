@@ -1,0 +1,23 @@
+/* isme koi syntax nhi hota  */
+p{
+
+    color: rgb(206, 215, 212);
+    font-size: xx-large;
+   font-style: italic;
+   font-weight:bolder;
+   font-family: serif; 
+   text-transform: lowercase;
+    text-decoration: underline;
+text-decoration: overline;
+    background-color: rgb(139, 60, 44);
+/* letter-spacing: 1cm;  */
+/* word-spacing: 3cm; */
+}
+
+/* we use to keep th html code clean  */
+/* we use selector to give different property to different para  */
+/*
+selectors
+3 type of selectors - elemet/tag selector 
+id selector =>#
+class selector => . 
