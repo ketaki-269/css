@@ -1,0 +1,72 @@
+.p1{
+    
+    /* border: 3px double rebeccapurple ;  */
+    border-left: 2px solid coral;
+ padding: 40px;  /* border ke under ki spaceing   */
+    margin: 30px; /* border ke bahar ki spaceing   */
+}
+.p2{
+    border-right: 6px rgb(0, 0, 0) solid ;
+   color: aquamarine;
+    font-size: 1cm;
+}
+.p3{
+    border-top: 3px violet solid;
+    color: chartreuse;
+     font-size: 1cm;
+}
+.p4{
+    border-left: 2px solid coral;
+    color: blue;
+     font-size: 1cm;
+    
+}
+.p5{
+   
+    color: rgb(216, 137, 19) ;
+     font-size: 1cm;
+}
+.p6{
+    color: cadetblue;
+     font-size: 1cm;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.one{
+    color: aquamarine;
+    font-size: 1cm;
+}
+.two{
+    color: aqua;
+    font-size:1cm;
+}
+.three{
+    color: blue;
+    font-size: 1cm;
+}
+.four{
+    color: blueviolet;
+    font-size: 1cm;
+}
+.five{
+    color: cadetblue;
+    font-size: 1cm;  
+}
+.six{
+    color: coral;
+    font-size: 1cm;
+}
