@@ -1,17 +1,25 @@
 .one{
-    color: aquamarine;}
-.second{
+    color: aquamarine;
+    font-size: 3cm;
+}
+.two{
     color: aqua;
+    font-size:3cm;
 }
 .three{
     color: blue;
+    font-size: 3cm;
 }
 .four{
     color: blueviolet;
+    font-size: 3cm;
 }
 .five{
     color: cadetblue;
+    font-size: 3cm;
+    
 }
 .six{
     color: coral;
+    font-size: 3cm;
 }
