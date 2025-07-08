@@ -1,0 +1,38 @@
+.p1{
+    color: rgb(31, 127, 166);
+    font-size: 1cm;
+     border: 3px coral double ;
+}
+.p2{
+    color: rgb(56, 98, 197);
+    font-size: 1cm;
+     border: 3px coral double ;
+     margin-top: 4ch;
+}
+.p3{
+    color: rgb(177, 27, 27);
+    font-size: 1cm;
+     border: 3px coral double ;
+     margin-bottom: 4ch;
+}
+.p4{
+    color: blueviolet;
+    font-size: 1cm;
+     border: 3px coral double ;
+     margin-right: 4ch;
+}
+.p5{
+    color: rgb(150, 30, 102);
+    font-size: 1cm;
+     border: 3px coral double ;
+     margin-left: 4ch;
+}
+.p6{
+    color: rgb(43, 194, 71);
+    font-size: 1cm;
+     border: 3px coral double ;
+     margin-top: 4ch;
+     margin-bottom: 4ch;
+    margin-left: 4ch;
+    margin-right: 4ch;
+}
