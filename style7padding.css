@@ -1,0 +1,38 @@
+.p1{
+    color: aquamarine;
+    border: 3px coral double ;
+    font-size: 1cm;
+}
+.p2{
+    color: rgb(9, 73, 28);
+    border: 3px rgb(60, 236, 44) double ;
+    padding-left: 4ch;
+    font-size: 1cm;
+}
+.p3{
+    color: rgb(170, 127, 255);
+    border: 3px rgb(52, 8, 99) double ;
+    padding-bottom: 4ch;
+    font-size: 1cm;
+}
+.p4{
+    color: rgb(151, 14, 72);
+    font-size: 1cm;
+    padding-right: 4ch;
+    border: 3px rgb(48, 2, 23) double ;
+}
+.p5{
+    font-size: 1cm;
+    color: rgb(48, 48, 213);
+    padding-top: 4ch;
+    border: 3px rgb(26, 10, 89) double ;
+}
+.p6{
+    color: rgb(73, 65, 4);
+    font-size: 1cm;
+    padding-left: 4ch;
+    padding-right: 4ch;
+    padding-bottom: 4ch;
+    padding-top: 4ch;
+    border: 3px rgb(219, 198, 37) double ;
+}
