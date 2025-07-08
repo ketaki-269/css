@@ -30,9 +30,12 @@
 .p6{
     color: rgb(73, 65, 4);
     font-size: 1cm;
-    padding-left: 4ch;
+    /* padding-left: 4ch;
     padding-right: 4ch;
     padding-bottom: 4ch;
-    padding-top: 4ch;
+    padding-top: 4ch; */
+    /* padding: 10px;  for all side */
+
+    padding: 10px 50px 20px 20px ;   /*for all side but differnt size (the size we should right clockwise)*/ 
     border: 3px rgb(219, 198, 37) double ;
 }

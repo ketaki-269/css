@@ -1,0 +1,15 @@
+#mainbox {
+    background-color: aqua;
+    display: flex; 
+    justify-content: center;
+    gap: 20px;
+    align-items: center;
+}
+
+/* display property ke badh hi justify content or align itme chalenga  */
+/* 
+these upper 4 properties are most important properties of css
+as it is mostly used in css  */
+
+
+task
