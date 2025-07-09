@@ -8,6 +8,9 @@
    width: 250px;
   height: 300px;
   border: 2px solid rgb(5, 1, 1);
+  /* background-color: rgba(0, 255, 255, 0.449); */
+  background: linear-gradient(to right , rgb(216, 52, 52),orange,yellow,white);
+  border-radius: 5px;
   display: inline-block;
   justify-content: center;
   display: flex;
