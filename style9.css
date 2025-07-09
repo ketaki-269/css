@@ -3,7 +3,7 @@
   height: 500px;
   border: 2px solid rgb(5, 1, 1);
   display: inline-block;
-  justify-content: space-between;
+  justify-content: center;
  gap:40px;
   
 }
@@ -29,6 +29,6 @@
   height: 500px;
   border: 2px solid rgb(5, 1, 1);
    display: inline-block;
-  justify-content: right;
+  justify-content: center;
   gap: 40px;
 }
