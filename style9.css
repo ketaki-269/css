@@ -4,11 +4,8 @@
   justify-content: center;
 }
 
-
-
-
 .d{
-   width: 150px;
+   width: 250px;
   height: 300px;
   border: 2px solid rgb(5, 1, 1);
   display: inline-block;
@@ -18,8 +15,8 @@
  gap:40px;
   
 }
-.d1{
- width: 150px;
+/* .d1{
+ width: 250px;
   height: 300px;
   border: 2px solid rgb(5, 1, 1);  
    display: inline-block;
@@ -30,7 +27,7 @@
 }
 .d2
 {
-    width: 150px;
+    width: 250px;
   height: 300px;
   border: 2px solid rgb(5, 1, 1);
    display: inline-block;
@@ -40,7 +37,7 @@
   gap: 40px;
 }
 .d3{
-    width: 150px;
+    width: 250px;
   height: 300px;
   border: 2px solid rgb(5, 1, 1);
    display: inline-block;
@@ -48,4 +45,4 @@
   display: flex;
   align-items: center;
   gap: 40px;
-}
+} */
